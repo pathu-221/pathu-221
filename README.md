@@ -8,7 +8,7 @@ Hi 🙋, I am a self taught web developer from India.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratham-aggarwal-48516b120) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-aggarwal-48516b120) 
 
 # 💻 Tech Stack:
 
