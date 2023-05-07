@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  🙋‍♂️, I am Pratham, A web developer from India, <br>Front end developer @ Ayattih Education Foundation
+Hi  🙋‍♂️, I am Pratham, A web developer from India, <br>Full Stack Developer @NewLime Tech
 
 
 ## 🌐 Socials:
