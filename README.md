@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamaggarwal23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2302569B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vite-theta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2302569B.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamaggarwal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-aggarwal-48516b120/)
 
 # 💻 Tech Stack:
